@@ -9,7 +9,7 @@
 - 🏃🏻 My sport: **Dance and Gym**
 - 💭 Favorite Story Genre: **Fantasy and Lovecraft**
 - 🐾 Favorite Animal: **Cat**
-- 🍃 Free time: **Tv Series, Movies and Videogame**
+- 🍃 Free time: **Tv Series, Animes and Videogames**
 - 😂 Fun fact: **I love bees! But bees don't love me back**
 
 <h3>${\textsf{\color{lightgreen}Who Am I?}}$</h3>
