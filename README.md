@@ -1,7 +1,7 @@
 <img align="center" alt="CodingBackground" width="2000" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/CodingBackground.gif">
 <h1>${\textsf{\color{blue}Hi👋, I'm Anthony Fedeli}}$</h1>
 
-<h3>${\textsf{\color{lightgreen}Little Sneak Peak}}$</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonywithth&label=Profile%20views&color=0e75b6&style=flat" alt="anthonywithth" /> </p>
+<h3>${\textsf{\color{green}Little Sneak Peak}}$</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonywithth&label=Profile%20views&color=0e75b6&style=flat" alt="anthonywithth" /> </p>
 <img align="right" alt="Magic" width="200" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/a6412025532e59ee231b48a9643a45284e9ccbd8/ProfilePageImages/Magic.gif">
 
 - 🎓 Master's Degree in: **Civil Engineering Architecture**
@@ -13,7 +13,7 @@
 - 🍃 Free time: **Tv Series, Animes and Videogames**
 - 😂 Fun fact: **I love bees! But bees don't love me back**
 
-<h3>${\textsf{\color{lightgreen}Who Am I?}}$</h3>
+<h3>${\textsf{\color{green}And who Am I?}}$</h3>
 
 >*That’s one secret I’ll never tell.*<br />
 
@@ -35,7 +35,7 @@ Knowing how to work in a group is very important to me, because I like to compar
 While coding, the same thing can be achieved in multiple ways and the dialogue with colleagues is the key to obtaining a perfect result.<br />
 I am a curious, hard working and self motivated person, always looking for new challenges and learning opportunities.<br /> 
 
-<h3>${\textsf{\color{lightgreen}Skills}}$</h3>
+<h3>${\textsf{\color{green}Skills}}$</h3>
 My educational path has allowed me to acquire soft skills such as:
 
 - `Teamwork`
@@ -54,7 +54,7 @@ My educational path has allowed me to acquire soft skills such as:
   <tbody>
   <tr width="600px">
 <td>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a></p>
   
 </td>
 <td>
@@ -66,9 +66,9 @@ My educational path has allowed me to acquire soft skills such as:
   </tbody>
 </table>
 
-<h3>${\textsf{\color{lightgreen}Projects}}$</h3>
+<h3>${\textsf{\color{green}Projects}}$</h3>
 
-<h3>${\textsf{\color{lightgreen}Connect with me}}$</h3>
+<h3>${\textsf{\color{green}Connect with me}}$</h3>
 <p align="left">
 <a href="https://fb.com/anthony.with.th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anthony.with.th" height="30" width="40" /></a>
 <a href="https://instagram.com/anthony_with_th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anthony_with_th" height="30" width="40" /></a>
