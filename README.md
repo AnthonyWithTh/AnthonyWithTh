@@ -1,6 +1,7 @@
 <img align="center" alt="CodingBackground" width="2000" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/CodingBackground.gif">
 <h1>${\textsf{\color{blue}Hi👋, I'm Anthony Fedeli}}$</h1>
-<h3>${\textsf{\color{lightgreen}Little Sneak Peak}}$</h3>
+
+<h3>${\textsf{\color{lightgreen}Little Sneak Peak}}$</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonywithth&label=Profile%20views&color=0e75b6&style=flat" alt="anthonywithth" /> </p>
 <img align="right" alt="Magic" width="200" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/a6412025532e59ee231b48a9643a45284e9ccbd8/ProfilePageImages/Magic.gif">
 
 - 🎓 Master's Degree in: **Civil Engineering Architecture**
@@ -73,5 +74,3 @@ My educational path has allowed me to acquire soft skills such as:
 <a href="https://instagram.com/anthony_with_th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anthony_with_th" height="30" width="40" /></a>
 <a href="https://anthony-with-th.itch.io" target="blank"><img align="center" src="https://github.com/AnthonyWithTh/AnthonyWithTh/blob/main/ProfilePageImages/itchio.png" alt="anthony_with_th" height="30" width="30" /></a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonywithth&label=Profile%20views&color=0e75b6&style=flat" alt="anthonywithth" /> </p>
