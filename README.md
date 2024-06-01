@@ -1,7 +1,7 @@
 <img align="center" alt="CodingBackground" width="2000" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/CodingBackground.gif">
 <h1>${\textsf{\color{blue}Hi👋, I'm Anthony Fedeli}}$</h1>
 <h3>${\textsf{\color{lightgreen}Little Sneak Peak}}$</h3>
-<img align="right" alt="Magic" width="300" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/Magic.gif">
+<img align="right" alt="Magic" width="200" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/a6412025532e59ee231b48a9643a45284e9ccbd8/ProfilePageImages/Magic.gif">
 
 - 🎓 Master's Degree in: **Civil Engineering Architecture**
 - 🌱 I’m currently learning: **C# and C++**
