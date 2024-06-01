@@ -28,7 +28,7 @@ Throughout my university years I pursued my passion for video games, and only re
 My thesis was a VR application that showed the evolution of a historic building in the Certosa di Pisa in Calci.<br />
 
 This prompted me to undertake a training course for Game Programmer at the Digital Bros Game Academy in Milan which allowed me to expand my knowledge on the use of Unity and Unreal Engine.<br />
-I found C# programming very exciting especially with regard to the study behind the logic of a video game.<br />
+I found out that coding is very exciting especially with regard to the study behind the logic of a video game.<br />
 I approached multiple areas such as Gameplay, UI and VFX and I found it very rewarding to work in a group.<br />
 
 Knowing how to work in a group is very important to me, because I like to compare myself with colleagues.<br />
