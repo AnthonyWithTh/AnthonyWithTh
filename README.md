@@ -1,14 +1,14 @@
-<img align="right" alt="Magic" width="150" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/Magic.gif">
-<h1>$${\textsf{\color{blue}Hi👋, I'm Anthony Fedeli}}$$</h1>
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/coding.gif">
-
+<img align="center" alt="CodingBackground" width="2000" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/CodingBackground.gif">
+<h1>${\textsf{\color{blue}Hi👋, I'm Anthony Fedeli}}$</h1>
 <h3>${\textsf{\color{lightgreen}Little Sneak Peak}}$</h3>
+<img align="right" alt="Magic" width="300" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/Magic.gif">
 
 - 🎓 Master's Degree in: **Civil Engineering Architecture**
 - 🌱 I’m currently learning: **C# and C++**
 - 🎮 My favorite videogame: **Final Fantasy 9**
 - 🏃🏻 My sport: **Dance and Gym**
 - 💭 Favorite Story Genre: **Fantasy and Lovecraft**
+- 🐾 Favorite Animal: **Cat**
 - 🍃 Free time: **Tv Series, Movies and Videogame**
 - 😂 Fun fact: **I love bees! But bees don't love me back**
 
