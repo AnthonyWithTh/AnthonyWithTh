@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anthony Fedeli</h1>
+<h1 align="center">Hi👋, I'm Anthony Fedeli</h1>
 <h3 align="center">A passionate Game Programmer.</h3>
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/coding.gif">
 
