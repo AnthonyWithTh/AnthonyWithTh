@@ -28,7 +28,7 @@ ${\textsf{\color{green}Little Sneak Peak}}$
 <dl>
 <dd>
 
->*That’s one secret I’ll never tell.*<br />
+>*That’s one secret I’ll never tell... [cit.]*<br />
 
 Just kidding!<br />
 
@@ -123,7 +123,7 @@ The presence of a solid narrative background to the product is intended to attra
 
 <div align="right">
   
-# <h3>${\textsf{\color{green}Connect with me}}$</h3>
+# <h3>${\textsf{\color{green}Connect with Me}}$</h3>
 
 <p align="right"> <a href="https://fb.com/anthony.with.th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anthony.with.th" height="30" width="40" /></a>
 <a href="https://instagram.com/anthony_with_th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anthony_with_th" height="30" width="40" /></a>
