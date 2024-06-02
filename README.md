@@ -30,23 +30,23 @@ ${\textsf{\color{green}Little Sneak Peak about Me}}$
 
 >*That’s one secret I’ll never tell... [cit.]*<br />
 
-Just kidding!<br />
+Just kidding! <br />
 
-My name is Anthony, born in 1993.<br />
-Since I was a child, I have always had a passion for video games.<br />
-However, life choices have led me to study other areas, such as 3D modeling and graphic animations.<br />
+My name is Anthony, born in 1993. <br />
+Since I was a child, I have always had a passion for video games. <br />
+However, life choices have led me to study other areas, such as 3D modeling and graphic animations. <br />
 
-In fact, in 2020 I obtained a master's degree with honors from the Faculty of Engineering of Pisa in Building Engineering Architecture.<br />
-Throughout my university years I pursued my passion for video games, and only recently did I approach the world of programming.<br />
-My thesis was a VR application that showed the evolution of a historic building in the Certosa di Pisa in Calci.<br />
+In fact, in 2020 I obtained a master's degree with honors from the Faculty of Engineering of Pisa in Building Engineering Architecture. <br />
+Throughout my university career I pursued my passion for video games, and only recently I approached the world of programming. <br />
+My thesis was a VR application that showed the evolution of a historic building in the Certosa di Pisa in Calci. <br />
 
-This prompted me to undertake a training course for Game Programmer at the Digital Bros Game Academy in Milan which allowed me to expand my knowledge on the use of Unity and Unreal Engine.<br />
-I found out that coding is very exciting especially with regard to the study behind the logic of a video game.<br />
-I approached multiple areas such as Gameplay Logic, Procedural Generation, Debugging, Animation, Shader, UI and VFX and I found it very rewarding to work in a group.<br />
+This prompted me to undertake a training course for Game Programmer at the Digital Bros Game Academy in Milan, which allowed me to expand my knowledge on the use of Unity and Unreal Engine. <br />
+I discovered that coding is very exciting, especially with regard to the study behind the logic of a videogame. <br />
+I approached multiple areas, such as Gameplay Logic, Procedural Generation, Debugging, Animation, Shader, UI and VFX. <br />
 
-Knowing how to work in a group is very important to me, because I like to compare myself with colleagues.<br />
-While coding, the same thing can be achieved in multiple ways and the dialogue with colleagues is the key to obtaining a perfect result.<br />
-I am a curious, hard working and self motivated person, always looking for new challenges and learning opportunities.<br /> 
+I found it very rewarding to work in a group, and knowing how to work in a team is very important to me, because I like to compare myself with my colleagues. <br />
+While coding, the same thing can be achieved in multiple ways, and the dialogue with them is the key to obtaining a perfect result. <br />
+I am a curious, hardworking and self-motivated person, always looking for new challenges and learning opportunities.
 
 </dd>
 </dl>
