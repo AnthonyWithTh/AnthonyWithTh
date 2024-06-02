@@ -1,7 +1,11 @@
 <img align="center" alt="CodingBackground" width="2000" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/CodingBackground.gif">
+
 <h1>${\textsf{\color{blue}Hi there!👋 I'm Anthony Fedeli}}$</h1>
 
-<h3>${\textsf{\color{green}Little Sneak Peak}}$</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonywithth&label=Profile%20views&color=0e75b6&style=flat" alt="anthonywithth" /> </p>
+<img align="right" src="https://komarev.com/ghpvc/?username=anthonywithth&label=Profile%20views&color=0e75b6&style=flat" alt="anthonywithth" />
+
+${\textsf{\color{green}Little Sneak Peak}}$
+
 <img align="right" alt="Magic" width="200" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/a6412025532e59ee231b48a9643a45284e9ccbd8/ProfilePageImages/Magic.gif">
 
 <dl>
@@ -52,14 +56,14 @@ I am a curious, hard working and self motivated person, always looking for new c
 <dl>
 <dd>
 
-<div align="center">
+<div align="left">
   
-**Soft Skills**
+**1. Soft Skills**
 
 `Communication` `Teamwork` `Active Listening` `Resilience` `Networking` `Empathy` `Patience` `Open Mindedness` `Adaptability`<br/>
-`Probelm-solving` `Critical Thinking` `Creativity` `Accountability` `Confidence` `Time management`
+`Problem-solving` `Critical Thinking` `Creativity` `Accountability` `Confidence` `Time management`
   
-**Technical Skills**
+**2. Technical Skills**
 
 </div>
 
