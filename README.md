@@ -6,7 +6,7 @@
 
 ${\textsf{\color{green}Little Sneak Peak}}$
 
-<img align="right" alt="Magic" width="200" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/a6412025532e59ee231b48a9643a45284e9ccbd8/ProfilePageImages/Magic.gif">
+<img align="right" alt="Magic" width="190" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/a6412025532e59ee231b48a9643a45284e9ccbd8/ProfilePageImages/Magic.gif">
 
 <dl>
 <dd>
