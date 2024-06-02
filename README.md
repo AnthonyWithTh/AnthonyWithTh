@@ -4,7 +4,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=anthonywithth&label=Profile%20views&color=0e75b6&style=flat" alt="anthonywithth" />
 
-${\textsf{\color{green}Little Sneak Peak}}$
+${\textsf{\color{green}Little Sneak Peak about Me}}$
 
 <img align="right" alt="Magic" width="190" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/a6412025532e59ee231b48a9643a45284e9ccbd8/ProfilePageImages/Magic.gif">
 
@@ -23,7 +23,7 @@ ${\textsf{\color{green}Little Sneak Peak}}$
 </dd>
 </dl>
 
-# <h3>${\textsf{\color{green}And who Am I?}}$</h3>
+# <h3>${\textsf{\color{green}But who Am I?}}$</h3>
 
 <dl>
 <dd>
