@@ -60,8 +60,11 @@ I am a curious, hardworking and self-motivated person, always looking for new ch
   
 **1. Soft Skills**
 
-`Communication` `Teamwork` `Active Listening` `Resilience` `Networking` `Empathy` `Patience` `Open Mindedness` `Adaptability`<br/>
-`Problem-solving` `Critical Thinking` `Creativity` `Accountability` `Confidence` `Time management`
+`Communication` `Teamwork` `Active Listening`<br/>
+`Resilience` `Networking` `Empathy`<br/>
+`Patience` `Open Mindedness` `Adaptability`<br/>
+`Problem-solving` `Critical Thinking` `Creativity`<br/>
+`Accountability` `Confidence` `Time management`<br/>
   
 **2. Technical Skills**
 
@@ -99,13 +102,14 @@ I am a curious, hardworking and self-motivated person, always looking for new ch
 
 **Memory Leak** _by Helluva Studio_ 
 
-<img align="left" alt="MemoryLeak" width="150" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/Project/MemoryLeak.png">
+<img align="left" alt="MemoryLeak" width="180" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/Project/MemoryLeak.png">
 
-**Genre:** Survival, Roguelite, Tower Defense<br />
-**Team Size:** 9<br />
-**Duration:** October 2023 - January 2024<br />
-**Platform:** PC<br />
-**My role:** `Procedural Map Generation` `Gameplay` `3D Modeling` `Shader` `UI` `VFX` `Debug`<br />
+•  **Genre:** Survival, Roguelite, Tower Defense<br />
+•  **Team Size:** 9<br />
+•  **Duration:** October 2023 - January 2024<br />
+•  **Platform:** PC<br />
+•  **My role:** `Procedural Map Generation` `Gameplay` `3D Modeling`<br />
+                  `Shader` `UI` `VFX` `Debug` `Sound`<br />
 
 Memory Leak is a 3D single player Survival game  designed to create a new survival experience by adding to the starting genre Action and Tower Defence elements.<br />
 The game aims to  appeals to fans of Survival, Tower Defence and Rogue Lite genres, offering a combination of mechanics typical of the three genres that could prove appealing to gamers looking for fresh and alternative innovations in the Survival market of PC games.<br />
@@ -113,7 +117,28 @@ The presence of a solid narrative background to the product is intended to attra
 
 <div align="center">
   
-  |[![Made with Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine)](https://www.unrealengine.com/) | [🔗 Repository](https://github.com/Helluva-Studio/Project-Factory) | [📥 Download from Itch.io](https://arakiwi.itch.io/memory-leak)
+|[![Made with Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine)](https://www.unrealengine.com/) | [🔗 Repository](https://github.com/Helluva-Studio/Project-Factory) | [📥 Download from Itch.io](https://arakiwi.itch.io/memory-leak)
+  :---: | :---: | :---: |
+ 
+</div>
+
+
+**Raindrops** _by Me_ 
+
+<img align="left" alt="RainDrop" width="210" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/Project/GoldDrop.gif">
+
+  •  **Genre:** Quiz - Educational<br />
+  •  **Team Size:** 1<br />
+  •  **Duration:** March 2024<br />
+  •  **Platform:** PC and WebBrowser<br />
+  •  **My role:** `Gameplay` `Shader` `UI` `VFX` `Debug` `Sound` <br />
+
+RainDrops is an educational quiz game where the player needs to perform mathematical operations to achieve the highest score.<br />
+It is a combination of finger speed and mental calculation that keeps our mind sharp through this mental stimulation game.<br />
+
+<div align="center">
+  
+|[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://www.unity.com) | [🔗 Repository](https://github.com/AnthonyWithTh/RainDrop) | [📥 Play on itch.io](https://anthony-with-th.itch.io/raindrop)
   :---: | :---: | :---: |
  
 </div>
