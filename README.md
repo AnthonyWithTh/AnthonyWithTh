@@ -102,7 +102,7 @@ I am a curious, hardworking and self-motivated person, always looking for new ch
 
 **Memory Leak** _by Helluva Studio_ 
 
-<img align="left" alt="MemoryLeak" width="180" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/Project/MemoryLeak.png">
+<img align="left" alt="MemoryLeak" width="160" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/Project/MemoryLeak.png">
 
 •  **Genre:** Survival, Roguelite, Tower Defense<br />
 •  **Team Size:** 9<br />
@@ -125,7 +125,7 @@ The presence of a solid narrative background to the product is intended to attra
 
 **Raindrops** _by Me_ 
 
-<img align="left" alt="RainDrop" width="210" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/Project/GoldDrop.gif">
+<img align="left" alt="RainDrop" width="200" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/Project/GoldDrop.gif">
 
   •  **Genre:** Quiz - Educational<br />
   •  **Team Size:** 1<br />
