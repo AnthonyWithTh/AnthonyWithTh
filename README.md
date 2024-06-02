@@ -4,6 +4,9 @@
 <h3>${\textsf{\color{green}Little Sneak Peak}}$</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonywithth&label=Profile%20views&color=0e75b6&style=flat" alt="anthonywithth" /> </p>
 <img align="right" alt="Magic" width="200" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/a6412025532e59ee231b48a9643a45284e9ccbd8/ProfilePageImages/Magic.gif">
 
+<dl>
+<dd>
+  
 - 🎓 Master's Degree in: **Building Engineering Architecture**
 - 🌱 I’m currently learning: **C# and C++**
 - 🎮 My favorite videogame: **Final Fantasy 9**
@@ -13,7 +16,13 @@
 - 🍃 Free time: **Tv Series, Animes and Videogames**
 - 😂 Fun fact: **I love bees! But bees don't love me back**
 
+</dd>
+</dl>
+
 <h3>${\textsf{\color{green}And who Am I?}}$</h3>
+
+<dl>
+<dd>
 
 >*That’s one secret I’ll never tell.*<br />
 
@@ -29,20 +38,26 @@ My thesis was a VR application that showed the evolution of a historic building 
 
 This prompted me to undertake a training course for Game Programmer at the Digital Bros Game Academy in Milan which allowed me to expand my knowledge on the use of Unity and Unreal Engine.<br />
 I found out that coding is very exciting especially with regard to the study behind the logic of a video game.<br />
-I approached multiple areas such as Gameplay, UI and VFX and I found it very rewarding to work in a group.<br />
+I approached multiple areas such as Gameplay Logic, Procedural Generation, Debugging, Animation, Shader, UI and VFX and I found it very rewarding to work in a group.<br />
 
 Knowing how to work in a group is very important to me, because I like to compare myself with colleagues.<br />
 While coding, the same thing can be achieved in multiple ways and the dialogue with colleagues is the key to obtaining a perfect result.<br />
 I am a curious, hard working and self motivated person, always looking for new challenges and learning opportunities.<br /> 
 
+</dd>
+</dl>
+
 <h3>${\textsf{\color{green}Skills}}$</h3>
+
+<dl>
+<dd>
+
 My educational path has allowed me to acquire soft skills such as:
 
 - `Teamwork`
 - `Active listening`
 - `Fast learning`
 - `Problem-solving skills`
-  
 
 <table>
   <thead>
@@ -66,16 +81,23 @@ My educational path has allowed me to acquire soft skills such as:
   </tbody>
 </table>
 
+</dd>
+</dl>
+
 <h3>${\textsf{\color{green}Projects}}$</h3> 
-<img align="left" alt="MemoryLeak" width="350" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/Project/MemoryLeak.png">
+
+<dl>
+<dd>
 
 **Memory Leak** _by Helluva Studio_ 
+
+<img align="left" alt="MemoryLeak" width="150" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/Project/MemoryLeak.png">
 
 **Genre:** Survival, Roguelite, Tower Defense<br />
 **Team Size:** 9<br />
 **Duration:** October 2023 - January 2024<br />
 **Platform:** PC<br />
-**My role:** `Procedural Map Generation` `Turret Logic` `UI` `VFX`<br />
+**My role:** `Procedural Map Generation` `Gameplay` `3D Modeling` `Shader` `UI` `VFX` `Debug`<br />
 
 Memory Leak is a 3D single player Survival game  designed to create a new survival experience by adding to the starting genre Action and Tower Defence elements.<br />
 The game aims to  appeals to fans of Survival, Tower Defence and Rogue Lite genres, offering a combination of mechanics typical of the three genres that could prove appealing to gamers looking for fresh and alternative innovations in the Survival market of PC games.<br />
@@ -87,6 +109,9 @@ The presence of a solid narrative background to the product is intended to attra
   :---: | :---: | :---: |
  
 </div>
+
+</dd>
+</dl>
 
 <h3>${\textsf{\color{green}Connect with me}}$</h3>
 <p align="left"> <a href="https://fb.com/anthony.with.th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anthony.with.th" height="30" width="40" /></a>
