@@ -123,17 +123,17 @@ The presence of a solid narrative background to the product is intended to attra
 </div>
 
 
-**Raindrops** _by Me_ 
+**RainDrop** _by Me_ 
 
-<img align="left" alt="RainDrop" width="200" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/Project/GoldDrop.gif">
+<img align="left" alt="RainDrop" width="190" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/Project/GoldDrop.gif">
 
-  •  **Genre:** Quiz - Educational<br />
-  •  **Team Size:** 1<br />
-  •  **Duration:** March 2024<br />
-  •  **Platform:** PC and WebBrowser<br />
-  •  **My role:** `Gameplay` `Shader` `UI` `VFX` `Debug` `Sound` <br />
+   •  **Genre:** Quiz - Educational<br />
+   •  **Team Size:** 1<br />
+   •  **Duration:** March 2024<br />
+   •  **Platform:** PC and WebBrowser<br />
+   •  **My role:** `Gameplay` `Shader` `UI` `VFX` `Debug` `Sound` <br />
 
-RainDrops is an educational quiz game where the player needs to perform mathematical operations to achieve the highest score.<br />
+RainDrop is an educational quiz game where the player needs to perform mathematical operations to achieve the highest score.<br />
 It is a combination of finger speed and mental calculation that keeps our mind sharp through this mental stimulation game.<br />
 
 <div align="center">
