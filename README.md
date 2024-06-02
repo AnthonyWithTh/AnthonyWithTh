@@ -1,5 +1,5 @@
 <img align="center" alt="CodingBackground" width="2000" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/CodingBackground.gif">
-<h1>${\textsf{\color{blue}Hi👋, I'm Anthony Fedeli}}$</h1>
+<h1>${\textsf{\color{blue}Hi there!👋 I'm Anthony Fedeli}}$</h1>
 
 <h3>${\textsf{\color{green}Little Sneak Peak}}$</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonywithth&label=Profile%20views&color=0e75b6&style=flat" alt="anthonywithth" /> </p>
 <img align="right" alt="Magic" width="200" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/a6412025532e59ee231b48a9643a45284e9ccbd8/ProfilePageImages/Magic.gif">
@@ -19,7 +19,7 @@
 </dd>
 </dl>
 
-<h3>${\textsf{\color{green}And who Am I?}}$</h3>
+# <h3>${\textsf{\color{green}And who Am I?}}$</h3>
 
 <dl>
 <dd>
@@ -47,17 +47,21 @@ I am a curious, hard working and self motivated person, always looking for new c
 </dd>
 </dl>
 
-<h3>${\textsf{\color{green}Skills}}$</h3>
+# <h3>${\textsf{\color{green}Skills}}$</h3>
 
 <dl>
 <dd>
 
-My educational path has allowed me to acquire soft skills such as:
+<div align="center">
+  
+**Soft Skills**
 
-- `Teamwork`
-- `Active listening`
-- `Fast learning`
-- `Problem-solving skills`
+`Communication` `Teamwork` `Active Listening` `Resilience` `Networking` `Empathy` `Patience` `Open Mindedness` `Adaptability`<br/>
+`Probelm-solving` `Critical Thinking` `Creativity` `Accountability` `Confidence` `Time management`
+  
+**Technical Skills**
+
+</div>
 
 <table>
   <thead>
@@ -84,7 +88,7 @@ My educational path has allowed me to acquire soft skills such as:
 </dd>
 </dl>
 
-<h3>${\textsf{\color{green}Projects}}$</h3> 
+# <h3>${\textsf{\color{green}Projects}}$</h3> 
 
 <dl>
 <dd>
@@ -113,9 +117,13 @@ The presence of a solid narrative background to the product is intended to attra
 </dd>
 </dl>
 
-<h3>${\textsf{\color{green}Connect with me}}$</h3>
-<p align="left"> <a href="https://fb.com/anthony.with.th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anthony.with.th" height="30" width="40" /></a>
+<div align="right">
+  
+# <h3>${\textsf{\color{green}Connect with me}}$</h3>
+
+<p align="right"> <a href="https://fb.com/anthony.with.th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anthony.with.th" height="30" width="40" /></a>
 <a href="https://instagram.com/anthony_with_th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anthony_with_th" height="30" width="40" /></a>
 <a href="https://anthony-with-th.itch.io" target="blank"><img align="center" src="https://github.com/AnthonyWithTh/AnthonyWithTh/blob/main/ProfilePageImages/itchio.png" alt="anthony_with_th" height="30" width="30" /></a>
-<a href="https://anthony-with-th.itch.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/discord.png" alt="anthony_with_th" height="30" width="30" /></a>
-</p>
+&nbsp<a href="https://discordapp.com/users/153992600494276608" target="blank"><img align="center" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/discord.png" alt="anthony_with_th" height="30" width="30" /></a> </p>
+
+</div>
