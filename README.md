@@ -117,7 +117,7 @@ The presence of a solid narrative background to the product is intended to attra
 
 <div align="center">
   
-|[![Made with Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine)](https://www.unrealengine.com/) | [🔗 Repository](https://github.com/Helluva-Studio/Project-Factory) | [📥 Download from Itch.io](https://arakiwi.itch.io/memory-leak)
+|[![Made with Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine)](https://www.unrealengine.com/) | [🔗 Repository](https://github.com/Helluva-Studio/Project-Factory) | [📥 Download on itch.io](https://arakiwi.itch.io/memory-leak)
   :---: | :---: | :---: |
  
 </div>
@@ -138,7 +138,7 @@ It is a combination of finger speed and mental calculation that keeps our mind s
 
 <div align="center">
   
-|[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://www.unity.com) | [🔗 Repository](https://github.com/AnthonyWithTh/RainDrop) | [📥 Play on itch.io](https://anthony-with-th.itch.io/raindrop)
+|[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://www.unity.com) | [🔗 Repository](https://github.com/AnthonyWithTh/RainDrop) | [🕹️ Play on itch.io](https://anthony-with-th.itch.io/raindrop)
   :---: | :---: | :---: |
  
 </div>
