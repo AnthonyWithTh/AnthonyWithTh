@@ -60,11 +60,11 @@ I am a curious, hardworking and self-motivated person, always looking for new ch
   
 **1. Soft Skills**
 
-`Communication` `Teamwork` `Active Listening`<br/>
-`Resilience` `Networking` `Empathy`<br/>
-`Patience` `Open Mindedness` `Adaptability`<br/>
-`Problem-solving` `Critical Thinking` `Creativity`<br/>
-`Accountability` `Confidence` `Time management`<br/>
+  `Communication` `Teamwork` `Active Listening`<br/>
+  `Resilience` `Networking` `Empathy`<br/>
+  `Patience` `Open Mindedness` `Adaptability`<br/>
+  `Problem-solving` `Critical Thinking` `Creativity`<br/>
+  `Accountability` `Confidence` `Time management`<br/>
   
 **2. Technical Skills**
 
