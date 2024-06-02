@@ -69,12 +69,17 @@ My educational path has allowed me to acquire soft skills such as:
 <h3>${\textsf{\color{green}Projects}}$</h3> 
 <img align="left" alt="MemoryLeak" width="350" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/Project/MemoryLeak.png">
 
-**Memory Leak**  (2024) _by Helluva Studio_ 
+**Memory Leak** _by Helluva Studio_ 
+
+**Genre:** Survival, Roguelite, Tower Defense<br />
+**Team Size:** 9<br />
+**Duration:** October 2023 - January 2024<br />
+**Platform:** PC<br />
+**My role:** `Procedural Map Generation` `Turret Logic` `UI` `VFX`<br />
 
 Memory Leak is a 3D single player Survival game  designed to create a new survival experience by adding to the starting genre Action and Tower Defence elements.<br />
 The game aims to  appeals to fans of Survival, Tower Defence and Rogue Lite genres, offering a combination of mechanics typical of the three genres that could prove appealing to gamers looking for fresh and alternative innovations in the Survival market of PC games.<br />
 The presence of a solid narrative background to the product is intended to attract the attention of non casual gamers looking for an experience to discover and remember.<br />
-_**My personal contribution to this project:**_ Turret Logic, UI and VFX
 
 <div align="center">
   
@@ -84,8 +89,8 @@ _**My personal contribution to this project:**_ Turret Logic, UI and VFX
 </div>
 
 <h3>${\textsf{\color{green}Connect with me}}$</h3>
-<p align="left>
-<a href="https://fb.com/anthony.with.th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anthony.with.th" height="30" width="40" /></a>
+<p align="left"> <a href="https://fb.com/anthony.with.th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anthony.with.th" height="30" width="40" /></a>
 <a href="https://instagram.com/anthony_with_th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anthony_with_th" height="30" width="40" /></a>
 <a href="https://anthony-with-th.itch.io" target="blank"><img align="center" src="https://github.com/AnthonyWithTh/AnthonyWithTh/blob/main/ProfilePageImages/itchio.png" alt="anthony_with_th" height="30" width="30" /></a>
+<a href="https://anthony-with-th.itch.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/AnthonyWithTh/AnthonyWithTh/main/ProfilePageImages/discord.png" alt="anthony_with_th" height="30" width="30" /></a>
 </p>
