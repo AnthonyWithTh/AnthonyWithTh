@@ -84,7 +84,7 @@ The creation of these applications on Unreal Engine has developed in me the pass
     <tr align=&quot;left&quot;>
       <td height="150"> <img alt="Scuola2F" width="200" src="https://www.firenzekids.it/wp-content/uploads/2013/05/Istituto-Formazione-Franchi.jpg">
       </td>
-      <td> • <b>Franchi Training Institute (Florence) | 3D Modeling, Animation and Video Editing</b><br/><i>(2009 / 2011)</i><br/><br/>The path provided by the Istituto Formazione Franchi during my high school years, were fundamental to learn to have a spatial vision of the elements in a 3D environment.<br />
+      <td> • <b>Franchi Training Institute (Florence) | 3D Modeling, Animation and Video Editing Courses</b><br/><i>(2009 / 2011)</i><br/><br/>The path provided by the Istituto Formazione Franchi during my high school years, were fundamental to learn to have a spatial vision of the elements in a 3D environment.<br />
 It also allowed me to approach the use of basic 3D modeling software and the creation of animations.<br />
       </td>
     </tr
