@@ -97,10 +97,11 @@ It also allowed me to approach the use of basic 3D modeling software and the cre
 
 # <h3>${\textsf{\color{green}Skills}}$</h3>
 
+<div align="left">
+  
 <dl>
 <dd>
 
-<div align="left">
   
 **1. Soft Skills**
 
@@ -114,7 +115,8 @@ It also allowed me to approach the use of basic 3D modeling software and the cre
   
 **2. Technical Skills**
 
-</div>
+<dl>
+<dd>
 
 <table>
   <thead>
@@ -152,6 +154,8 @@ It also allowed me to approach the use of basic 3D modeling software and the cre
 
 </dd>
 </dl>
+</div>
+
 
 # <h3>${\textsf{\color{green}Projects}}$</h3> 
 
