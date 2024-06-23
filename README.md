@@ -62,19 +62,19 @@ I am a curious, hardworking and self-motivated person, always looking for new ch
     <tr align=&quot;left&quot;>
       <td width="200"> <img alt="Udemy" width="200" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg">
       </td>
-      <td> • <b>Udemy | Online Courses</b><br/><i>(2020 / today)</i><br/><br />I use Udemy to keep up to date on technologies, methodologies and development techniques, as well as learn new environments and new software, through the courses available and that pique my curiosity or interest.      
+      <td> • <b>Online Courses | <a href="https://www.udemy.com/">Udemy</a></b><br/><i>(2020 / today)</i><br/><br />I use Udemy to keep up to date on technologies, methodologies and development techniques, as well as learn new environments and new software, through the courses available and that pique my curiosity or interest.      
       </td>
     </tr>
     <tr align=&quot;left&quot;>
       <td width="200"> <img alt="DGBA" width="200" src="https://dbgameacademy.it/wp-content/themes/dbga2023/assets/logo-dbga.png">
       </td>
-      <td> • <b>Digital Bros Game Academy | Game Programmer Course</b><br/><small><i>(2023 / 2024)</i></small><br/><br />The path to the DBGA has been very useful from the perspective of learning about aspects related to game development such as programming languages (C++, C#), Unreal Engine and Unity, design patterns, implementations, tool usage, etc.<br />Teaching method involved simulating what happens inside a development studio, thanks to group projects that simulated all the processes of game development, from conception to realization, from the prototype, through the vertical slice, to the presentation of the complete project.<br />Furthermore, an equally important component was getting to know people, among students with whom to learn together, and trainers who demonstrated techniques and solutions for problems they had already faced through real examples and anecdotes.      
+      <td> • <b>Game Programmer Course | <a href="https://dbgameacademy.it/">Digital Bros Game Academy</a></b><br/><small><i>(2023 / 2024)</i></small><br/><br />The path to the DBGA has been very useful from the perspective of learning about aspects related to game development such as programming languages (C++, C#), Unreal Engine and Unity, design patterns, implementations, tool usage, etc.<br />Teaching method involved simulating what happens inside a development studio, thanks to group projects that simulated all the processes of game development, from conception to realization, from the prototype, through the vertical slice, to the presentation of the complete project.<br />Furthermore, an equally important component was getting to know people, among students with whom to learn together, and trainers who demonstrated techniques and solutions for problems they had already faced through real examples and anecdotes.      
       </td>
     </tr>
     <tr align=&quot;left&quot;>
       <td width="200"> <img alt="UniPisa" width="200" src="https://www.sba.unipi.it/sites/all/themes/unipi_theme_new/logo.png">
       </td>
-      <td> • <b>University of Pisa | Master's Degree Building Engineering Architecture</b><br/><i>(2012 / 2020)</i><br/><br />This degree fosters critical thinking and analytical reasoning skills essential for navigating the ever-evolving landscape of technology.<br />
+      <td> • <b>Master's Degree Building Engineering Architecture | <a href="https://www.unipi.it/">University of Pisa</a></b><br/><i>(2012 / 2020)</i><br/><br />This degree fosters critical thinking and analytical reasoning skills essential for navigating the ever-evolving landscape of technology.<br />
 It gave me the ability to dissect problems, devise efficient solutions, and adapt to emerging technologies is indispensable in a field where innovation is the norm.<br />
 My final thesis was: <b><a href="https://drive.google.com/drive/folders/1tib_R5eMy8K0nueuprmg6gvdzGH2rq4N?usp=sharing">"Le nuove Tecnologie Immersive degli ambienti museali-monumentali. Applicazione alla Certosa di Pisa a Calci."</a></b> <i>("The New Immersive Technologies of Museum-Monumental Environments. Application to the Certosa di Pisa in Calci.")</i> in wich I illustrate and demonstrate how vr technologies can be used for graphic and educational representations inside museums.<br />
 In particular, an animation video was created using Blender and two VR applications using Unreal Engine.<br />
@@ -84,7 +84,7 @@ The creation of these applications on Unreal Engine has developed in me the pass
     <tr align=&quot;left&quot;>
       <td height="150"> <img alt="Scuola2F" width="200" src="https://www.firenzekids.it/wp-content/uploads/2013/05/Istituto-Formazione-Franchi.jpg">
       </td>
-      <td> • <b>Franchi Training Institute (Florence) | 3D Modeling, Animation and Video Editing Courses</b><br/><i>(2009 / 2011)</i><br/><br/>The path provided by the Istituto Formazione Franchi during my high school years, were fundamental to learn to have a spatial vision of the elements in a 3D environment.<br />
+      <td> • <b>3D Modeling, Animation and Video Editing Courses | <a href="https://www.istitutoformazionefranchi.it/">Franchi Training Institute (Florence)</a></b><br/><i>(2009 / 2011)</i><br/><br/>The path provided by the Istituto Formazione Franchi during my high school years, were fundamental to learn to have a spatial vision of the elements in a 3D environment.<br />
 It also allowed me to approach the use of basic 3D modeling software and the creation of animations.<br />
       </td>
     </tr
